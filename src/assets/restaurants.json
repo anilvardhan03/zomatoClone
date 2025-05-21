@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Punjabi By Nature",
+    "reviews": 4.3,
+    "availableTypes": ["North Indian", "Biryani"],
+    "price": "₹1,000 for two",
+    "city": "Tajganj",
+    "state": "Agra",
+    "distance": "4.1 km",
+    "image": "/images/burger-thnkstck.jpeg"
+  },
+  {
+    "name": "Bombay Brunch",
+    "reviews": 4.5,
+    "availableTypes": ["South Indian", "Snacks", "Desserts"],
+    "price": "₹700 for two",
+    "city": "Andheri",
+    "state": "Mumbai",
+    "distance": "2.6 km",
+    "image": "/images/burger-thnkstck.jpeg"
+  },
+  {
+    "name": "Spice Villa",
+    "reviews": 4.1,
+    "availableTypes": ["Chinese", "Thai", "Asian Fusion"],
+    "price": "₹1,200 for two",
+    "city": "Banjara Hills",
+    "state": "Hyderabad",
+    "distance": "3.8 km",
+    "image": "/images/burger-thnkstck.jpeg"
+  },
+  {
+    "name": "Royal Tandoor",
+    "reviews": 4.6,
+    "availableTypes": ["Mughlai", "North Indian", "Tandoori"],
+    "price": "₹950 for two",
+    "city": "Connaught Place",
+    "state": "Delhi",
+    "distance": "1.9 km",
+    "image": "/images/burger-thnkstck.jpeg"
+  },
+  {
+    "name": "Café Urban",
+    "reviews": 4.0,
+    "availableTypes": ["Cafe", "Continental", "Salads", "Coffee"],
+    "price": "₹600 for two",
+    "city": "MG Road",
+    "state": "Bangalore",
+    "distance": "2.1 km",
+    "image": "/images/burger-thnkstck.jpeg"
+  },
+  {
+    "name": "Punjabi By Nature",
+    "reviews": 4.3,
+    "availableTypes": ["North Indian", "Biryani"],
+    "price": "₹1,000 for two",
+    "city": "Tajganj",
+    "state": "Agra",
+    "distance": "4.1 km",
+    "image": "/images/burger-thnkstck.jpeg"
+  },
+  {
+    "name": "Bombay Brunch",
+    "reviews": 4.5,
+    "availableTypes": ["South Indian", "Snacks", "Desserts"],
+    "price": "₹700 for two",
+    "city": "Andheri",
+    "state": "Mumbai",
+    "distance": "2.6 km",
+    "image": "/images/burger-thnkstck.jpeg"
+  },
+  {
+    "name": "Spice Villa",
+    "reviews": 4.1,
+    "availableTypes": ["Chinese", "Thai", "Asian Fusion"],
+    "price": "₹1,200 for two",
+    "city": "Banjara Hills",
+    "state": "Hyderabad",
+    "distance": "3.8 km",
+    "image": "/images/burger-thnkstck.jpeg"
+  },
+  {
+    "name": "Royal Tandoor",
+    "reviews": 4.6,
+    "availableTypes": ["Mughlai", "North Indian", "Tandoori"],
+    "price": "₹950 for two",
+    "city": "Connaught Place",
+    "state": "Delhi",
+    "distance": "1.9 km",
+    "image": "/images/burger-thnkstck.jpeg"
+  },
+  {
+    "name": "Café Urban",
+    "reviews": 4.0,
+    "availableTypes": ["Cafe", "Continental", "Salads", "Coffee"],
+    "price": "₹600 for two",
+    "city": "MG Road",
+    "state": "Bangalore",
+    "distance": "2.1 km",
+    "image": "/images/burger-thnkstck.jpeg"
+  }
+
+]

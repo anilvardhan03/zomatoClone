@@ -1,0 +1,39 @@
+  {
+    "name": "Punjabi By Nature",
+    "diningreviews": 4.3,
+    "noofreviews": "126",
+    "deliveryreviews": "4.6",
+    "noofdeliveryreviews": "1000",
+    "availableTypes": [
+      "North Indian",
+      "Biryani"
+    ],
+    "phonenumber"  : "9999999999",
+    "price": "₹1,000 for two",
+    "address": "Taj Eatery, 4th Floor Nr. Kalakriti, Taj East Gate Rd, Fatehabad Rd, Tajganj, Agra",
+    "city": "Tajganj",
+    "state": "Agra",
+    "distance": "4.1 km",
+    "image": "/images/burger-thnkstck.jpeg",
+    "status": "Closed",
+    "opensat": "At 10:00 AM",
+    "workingHours": [
+      {
+        "day": "Mon-Fri",
+        "hours": "10:00 AM - 10:00 PM"
+      },
+      {
+        "day": "Sat-Sun",
+        "hours": "9:00 AM - 11:00 PM"
+      }
+    ],
+    "images":[
+      "/images/1.png",
+      "/images/2.png",
+      "/images/3.png",
+      "/images/4.png",
+      "/images/5.png",
+      "/images/6.png"
+    ],
+    "location" : "/images/location.png"
+  }
