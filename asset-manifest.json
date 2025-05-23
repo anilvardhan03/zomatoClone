@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/anilvardhan03/zomatoClone/static/css/main.4bc1b169.css",
-    "main.js": "/anilvardhan03/zomatoClone/static/js/main.d4510b31.js",
-    "static/js/453.877ab80e.chunk.js": "/anilvardhan03/zomatoClone/static/js/453.877ab80e.chunk.js",
-    "static/media/home_banner.jpg": "/anilvardhan03/zomatoClone/static/media/home_banner.d6ee565803d9cf216913.jpg",
-    "static/media/bootstrap-icons.woff?": "/anilvardhan03/zomatoClone/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/bootstrap-icons.woff2?": "/anilvardhan03/zomatoClone/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "static/media/appstore.png": "/anilvardhan03/zomatoClone/static/media/appstore.b49b032fe88594d03010.png",
-    "static/media/playstore.png": "/anilvardhan03/zomatoClone/static/media/playstore.b496d1c4433ebfe626c5.png",
-    "static/media/instagram.png": "/anilvardhan03/zomatoClone/static/media/instagram.75e0546a6b5abe4c0506.png",
-    "index.html": "/anilvardhan03/zomatoClone/index.html",
-    "main.4bc1b169.css.map": "/anilvardhan03/zomatoClone/static/css/main.4bc1b169.css.map",
-    "main.d4510b31.js.map": "/anilvardhan03/zomatoClone/static/js/main.d4510b31.js.map",
-    "453.877ab80e.chunk.js.map": "/anilvardhan03/zomatoClone/static/js/453.877ab80e.chunk.js.map"
+    "main.css": "/zomatoClone/static/css/main.9b5d19f3.css",
+    "main.js": "/zomatoClone/static/js/main.7aba6a53.js",
+    "static/js/453.877ab80e.chunk.js": "/zomatoClone/static/js/453.877ab80e.chunk.js",
+    "static/media/home_banner.jpg": "/zomatoClone/static/media/home_banner.d6ee565803d9cf216913.jpg",
+    "static/media/bootstrap-icons.woff?": "/zomatoClone/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/zomatoClone/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/appstore.png": "/zomatoClone/static/media/appstore.b49b032fe88594d03010.png",
+    "static/media/playstore.png": "/zomatoClone/static/media/playstore.b496d1c4433ebfe626c5.png",
+    "static/media/instagram.png": "/zomatoClone/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "index.html": "/zomatoClone/index.html",
+    "main.9b5d19f3.css.map": "/zomatoClone/static/css/main.9b5d19f3.css.map",
+    "main.7aba6a53.js.map": "/zomatoClone/static/js/main.7aba6a53.js.map",
+    "453.877ab80e.chunk.js.map": "/zomatoClone/static/js/453.877ab80e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bc1b169.css",
-    "static/js/main.d4510b31.js"
+    "static/css/main.9b5d19f3.css",
+    "static/js/main.7aba6a53.js"
   ]
 }
