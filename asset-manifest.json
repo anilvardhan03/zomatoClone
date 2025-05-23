@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zomatoClone/static/css/main.9b5d19f3.css",
-    "main.js": "/zomatoClone/static/js/main.7aba6a53.js",
+    "main.js": "/zomatoClone/static/js/main.37a8a797.js",
     "static/js/453.877ab80e.chunk.js": "/zomatoClone/static/js/453.877ab80e.chunk.js",
     "static/media/home_banner.jpg": "/zomatoClone/static/media/home_banner.d6ee565803d9cf216913.jpg",
     "static/media/bootstrap-icons.woff?": "/zomatoClone/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
@@ -11,11 +11,11 @@
     "static/media/instagram.png": "/zomatoClone/static/media/instagram.75e0546a6b5abe4c0506.png",
     "index.html": "/zomatoClone/index.html",
     "main.9b5d19f3.css.map": "/zomatoClone/static/css/main.9b5d19f3.css.map",
-    "main.7aba6a53.js.map": "/zomatoClone/static/js/main.7aba6a53.js.map",
+    "main.37a8a797.js.map": "/zomatoClone/static/js/main.37a8a797.js.map",
     "453.877ab80e.chunk.js.map": "/zomatoClone/static/js/453.877ab80e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b5d19f3.css",
-    "static/js/main.7aba6a53.js"
+    "static/js/main.37a8a797.js"
   ]
 }
