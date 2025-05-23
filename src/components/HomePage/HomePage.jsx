@@ -14,7 +14,9 @@ const HomeComp = () => {
     const HandleMobileArrowSelect = () => setMobileArrowSelect(!mobileArrowSelect);
 
     const navigate = useNavigate();
-
+    const HandleLogin = ()=>{
+        navigate("/select");
+    }
     const handleCityClick = (selectedCity) => {
         document.cookie = `selectedCity=${selectedCity}; path=/`; 
         navigate("/select");
@@ -82,7 +84,7 @@ const HomeComp = () => {
                                 <input type="tel" className="form-control m-3"></input>
                             </div>
                             <div className="p-3">
-                                <span type="submit" className="p-2 bg-danger w-100 rounded-2 text-center fw-bold p-2 text-white">Send One Time Password</span>
+                                <span type="submit" onClick={HandleLogin} className="p-2 bg-danger w-100 rounded-2 text-center fw-bold p-2 text-white">Send One Time Password</span>
                             </div>
                             <span className="m-3 fw-bold text-secondary">--------------- or ---------------</span>
                             <div className="m-3 rounded-2 d-flex justify-content-center" style={{ boxShadow: "0 4px 8px rgba(0,0,0,0.2)" }}>

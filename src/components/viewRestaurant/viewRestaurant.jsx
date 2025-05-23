@@ -27,8 +27,7 @@ const ViewRestaurant = () => {
     const toggleHours = () => setShowHours(!showHours);
 
     useEffect(() => {
-        // Here you would normally fetch restaurant data based on the id
-        // For now, we're using the static JSON data
+        
         console.log("Restaurant ID:", id);
         
         const popoverTrigger = document.querySelector('[data-bs-toggle="popover"]');
