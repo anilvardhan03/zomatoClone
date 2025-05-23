@@ -1,7 +1,7 @@
 {
   "name": "yummy_go",
   "version": "0.1.0",
-  "homepage": "https://github.com/anilvardhan03/zomatoClone",
+  "homepage": "https://anilvardhan03.github.io/zomatoClone",
   "private": "false",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
